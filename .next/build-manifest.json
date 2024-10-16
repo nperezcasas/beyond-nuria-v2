@@ -5,29 +5,67 @@
   "devFiles": [],
   "ampDevFiles": [],
   "lowPriorityFiles": [
+<<<<<<< Updated upstream
     "static/C1sURyUklcpnqt6vAUdh3/_buildManifest.js",
     "static/C1sURyUklcpnqt6vAUdh3/_ssgManifest.js"
+=======
+<<<<<<< HEAD
+    "static/4NuilNTOZPmOnqfoEa5-5/_buildManifest.js",
+    "static/4NuilNTOZPmOnqfoEa5-5/_ssgManifest.js"
+=======
+    "static/C1sURyUklcpnqt6vAUdh3/_buildManifest.js",
+    "static/C1sURyUklcpnqt6vAUdh3/_ssgManifest.js"
+>>>>>>> origin/main
+>>>>>>> Stashed changes
   ],
   "rootMainFiles": [],
   "pages": {
     "/": [
       "static/chunks/webpack-4cdbba562918de47.js",
       "static/chunks/framework-64ad27b21261a9ce.js",
+<<<<<<< Updated upstream
       "static/chunks/main-df408f72103466a8.js",
       "static/chunks/672-68a59cef5dc69ea9.js",
       "static/chunks/pages/index-631cf0cbd3421494.js"
+=======
+<<<<<<< HEAD
+      "static/chunks/main-1b29d0b2c92aefdb.js",
+      "static/chunks/672-68a59cef5dc69ea9.js",
+      "static/chunks/pages/index-ca0345a64ac85da3.js"
+=======
+      "static/chunks/main-df408f72103466a8.js",
+      "static/chunks/672-68a59cef5dc69ea9.js",
+      "static/chunks/pages/index-631cf0cbd3421494.js"
+>>>>>>> origin/main
+>>>>>>> Stashed changes
     ],
     "/_app": [
       "static/chunks/webpack-4cdbba562918de47.js",
       "static/chunks/framework-64ad27b21261a9ce.js",
+<<<<<<< Updated upstream
       "static/chunks/main-df408f72103466a8.js",
+=======
+<<<<<<< HEAD
+      "static/chunks/main-1b29d0b2c92aefdb.js",
+=======
+      "static/chunks/main-df408f72103466a8.js",
+>>>>>>> origin/main
+>>>>>>> Stashed changes
       "static/css/74bf095fa8f6bb3f.css",
       "static/chunks/pages/_app-923b668fd6a9ed73.js"
     ],
     "/_error": [
       "static/chunks/webpack-4cdbba562918de47.js",
       "static/chunks/framework-64ad27b21261a9ce.js",
+<<<<<<< Updated upstream
       "static/chunks/main-df408f72103466a8.js",
+=======
+<<<<<<< HEAD
+      "static/chunks/main-1b29d0b2c92aefdb.js",
+=======
+      "static/chunks/main-df408f72103466a8.js",
+>>>>>>> origin/main
+>>>>>>> Stashed changes
       "static/chunks/pages/_error-7a92967bea80186d.js"
     ]
   },

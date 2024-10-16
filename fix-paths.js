@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 const fs = require('fs');
 const path = require('path');
 
@@ -28,3 +29,5 @@ fs.readdir(directoryPath, function (err, files) {
   });
 });
 
+=======
+>>>>>>> Stashed changes

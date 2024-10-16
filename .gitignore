@@ -1,5 +1,9 @@
 node_modules
 .next
+<<<<<<< Updated upstream
 out.next
 node_modules
 out
+=======
+out
+>>>>>>> Stashed changes
